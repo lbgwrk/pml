@@ -11,7 +11,7 @@
 ' Styling
 ' ##################################
 
-!define TECHN_FONT_SIZE 12
+!define TECHN_FONT_SIZE 10
 !define L_SCALE 0.5
 
 skinparam defaultTextAlignment center
@@ -20,7 +20,7 @@ skinparam wrapWidth 200
 skinparam maxMessageSize 150
 
 skinparam rectangle {
-    StereotypeFontSize 12
+    StereotypeFontSize 10
 }
 
 skinparam Arrow {
